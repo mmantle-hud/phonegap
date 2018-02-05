@@ -4,13 +4,12 @@
     id          = "com.mmantle.example"
     versionCode = "10"
     version     = "1.0.0" >
-
   <name>PhoneGap Example</name>
-
   <description>
-      A hellow world app built using PhoneGap Build
+      A hello world app built using PhoneGap Build
   </description>
-    <platform name="android" >
-        <icon src="icon.png" />
-    </platform>
+  <preference name="phonegap-version" value="cli-6.4.0" />
+  <platform name="android" >
+      <icon src="icon.png" />
+  </platform>
 </widget>
