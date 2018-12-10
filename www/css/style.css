@@ -1,6 +1,8 @@
 body{
 	background-color:#dd0000;
 	color:#eeeeee;
+	font-size:5em;
+	font-family:Verdana;
 }
 .border{
 	border:3px solid #ccc;
